@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3687CB8D-2D0B-45CD-AFA9-93AF682FBCE6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33ACEC6A-FEE8-4297-9862-7146DF4D43C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../var/folders/y5/h7hw77jj36vdht0q0n3jl07c0000gn/T/swift-generated-sources/@__swiftmacro_14one_user_fetch33_28770678735D99F08CAFEF7EEBA07E71Ll7PreviewfMf_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "$s14one_user_fetch33_28770678735D99F08CAFEF7EEBA07E71Ll7PreviewfMf_15PreviewRegistryfMu_"
+            landmarkType = "37">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABCBA3D3-57DA-4036-BD97-D57930B3848F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "one-user-fetch/UserService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getUserById(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4034378-E3B1-4ECD-B802-4C6F011CAB5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "one-user-fetch/UserService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getUserById(userId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4034378-E3B1-4ECD-B802-4C6F011CAB5C - f9d7f8fc56c592d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for one_user_fetch.UserService.getUserById(id: Swift.Int) async -&gt; Swift.Optional&lt;one_user_fetch.User&gt;"
+                  moduleName = "one-user-fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevanvlajic/Desktop/one-user-fetch/one-user-fetch/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "F4034378-E3B1-4ECD-B802-4C6F011CAB5C - f9d7f8fc56c592d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for one_user_fetch.UserService.getUserById(id: Swift.Int) async -&gt; Swift.Optional&lt;one_user_fetch.User&gt;"
+                  moduleName = "one-user-fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevanvlajic/Desktop/one-user-fetch/one-user-fetch/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "F4034378-E3B1-4ECD-B802-4C6F011CAB5C - 5e303f265972f0d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for one_user_fetch.UserService.getUserById(id: Swift.Int) async -&gt; Swift.Optional&lt;one_user_fetch.User&gt;"
+                  moduleName = "one-user-fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevanvlajic/Desktop/one-user-fetch/one-user-fetch/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "F4034378-E3B1-4ECD-B802-4C6F011CAB5C - 5e303f265972f0d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for one_user_fetch.UserService.getUserById(id: Swift.Int) async -&gt; Swift.Optional&lt;one_user_fetch.User&gt;"
+                  moduleName = "one-user-fetch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stevanvlajic/Desktop/one-user-fetch/one-user-fetch/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "977F73DA-3323-4050-81F1-BC4C4DC11DB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "one-user-fetch/UserService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "UserService"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "426BC4EA-26A4-405B-877A-3D30ED906A7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "one-user-fetch/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "UserView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
